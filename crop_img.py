@@ -2,6 +2,7 @@ import cv2
 import os
 from imutils import paths
 import random
+import numpy
 
 # list all the images in folder ./dataset
 folder = 'none'
